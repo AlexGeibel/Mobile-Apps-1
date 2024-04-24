@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "dieWhite.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
